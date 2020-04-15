@@ -1,0 +1,17 @@
+{
+  "name": "PruebaDespliegue",
+  "displayName": "PruebaDespliegue",
+  "expo": {
+    "name": "PruebaDespliegue",
+    "slug": "PruebaDespliegue",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
