@@ -8,11 +8,11 @@
     "test": "jest"
   },
   "dependencies": {
-    "appcenter": "3.0.1",
-    "appcenter-analytics": "3.0.1",
-    "appcenter-crashes": "3.0.1",
+    "appcenter": "4.4.5",
+    "appcenter-analytics": "4.4.5",
+    "appcenter-crashes": "4.4.5",
     "expo": "~37.0.3",
-    "expo-cli": "^3.18.0",
+    "expo-cli": "^6.0.6",
     "expo-updates": "~0.1.0",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
